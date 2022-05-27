@@ -1,0 +1,9 @@
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\bin\Debug\WindowsFormsApp11,5.exe.config
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\bin\Debug\WindowsFormsApp11,5.exe
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\bin\Debug\WindowsFormsApp11,5.pdb
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\obj\Debug\WindowsFormsApp11_5.Form1.resources
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\obj\Debug\WindowsFormsApp11_5.Properties.Resources.resources
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\obj\Debug\WindowsFormsApp11,5.csproj.GenerateResource.cache
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\obj\Debug\WindowsFormsApp11,5.csproj.CoreCompileInputs.cache
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\obj\Debug\WindowsFormsApp11,5.exe
+G:\PRG\c#\WindowsFormsApp11,5\WindowsFormsApp11,5\obj\Debug\WindowsFormsApp11,5.pdb
